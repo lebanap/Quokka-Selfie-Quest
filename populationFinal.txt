@@ -1,0 +1,4 @@
+The number of live quokkas: 34
+The number of new born quokkas: 6
+The number of dead quokkas: 30
+The number of total food supply: 277
